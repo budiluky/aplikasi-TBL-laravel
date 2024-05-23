@@ -13,12 +13,4 @@ Features:
     2.	Pagination
     3.	Password hash
 
-How to Run :
-
-- composer install
-- npm install
-- php artisan key:generate
-- php artisan migrate
-- php artisan serve
-
 
