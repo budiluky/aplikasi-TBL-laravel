@@ -1,5 +1,3 @@
-<H3>Aplikasi TBL Laravel 8</H3><BR/>
-
 Created using:
 
 - PHP Framework Laravel 8
