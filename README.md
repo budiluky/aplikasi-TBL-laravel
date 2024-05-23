@@ -1,16 +1,26 @@
 <H3>Aplikasi TBL Laravel 8</H3><BR/>
 
-Dibuat dengan menggunakan:
+Created using:
 
--   PHP Framework Laravel 8
--   Template AdminLTE 3 + Bootstrap
+- PHP Framework Laravel 8
+- AdminLTE 3 + Bootstrap template
 
-Fitur:
+Features:
 
--   Sistem Login
+- Login System
     1.	Register
     2.	Forgot password
--	CRUD User
+- CRUD User
     1.	Searching
     2.	Pagination
     3.	Password hash
+
+How to Run :
+
+- composer install
+- npm install
+- php artisan key:generate
+- php artisan migrate
+- php artisan serve
+
+
